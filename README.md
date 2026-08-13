@@ -1,5 +1,5 @@
 # 💫 About Me:
-B- Tech Computer Science Engineering (AI&ML)<br>Aspiring AI Engineer passionate about turning data into actionable insights<br>Skilled in SQL, Java engineer, python Developer, Excel, Data engineer.<br>Currently building real-world analytics projects<br>Always learning, exploring, and growing in the field data and technology
+AI & ML Student at PVPSIT | Aspiring Software Engineer & Machine Learning Developer | Artificial Intelligence Engineer | Python | Java | AI Developer 
 
 
 # 💻 Tech Stack:
