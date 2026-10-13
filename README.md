@@ -26,4 +26,79 @@ AI & ML Student at PVPSIT | Aspiring Software Engineer & Machine Learning Develo
 ---
 
 </div>
+<div align="center">
 
+# Hi there, I'm Venkatesh! 👋
+
+### 🚀 AI & ML Student at PVPSIT | Aspiring Software Engineer & AI Developer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Venkatesh-Web-dev01)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+---
+
+</div>
+
+## 💫 About Me
+
+- 🎓 Currently pursuing **Artificial Intelligence & Machine Learning** at **PVPSIT**.
+- 💡 Passionate about building intelligent systems, full-stack applications, and scalable machine learning pipelines.
+- 🛠️ Currently focusing on **Deep Learning, Computer Vision, and Cloud Architecture**.
+- ⚡ **Goal:** Building impactful AI solutions that bridge theory and production-ready applications.
+
+---
+
+## 💻 Tech Stack & Tools
+
+### **Languages & Core**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+### **AI / ML & Data Science**
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Chart.js](https://img.shields.io/badge/chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+### **Cloud & Infrastructure**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Linode](https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white)
+
+### **Web Development & Frameworks**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![esbuild](https://img.shields.io/badge/esbuild-FFCF00?style=for-the-badge&logo=esbuild&logoColor=black)
+
+---
+
+## 📌 Featured Projects
+
+| Project Name | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :---: |
+| **AI Project Name 1** | Machine Learning model for predictive analytics / computer vision. | `Python`, `TensorFlow/PyTorch` | [Repo](#) |
+| **Web App Project 2** | Full-stack web application designed for interactive user analytics. | `TypeScript`, `React`, `Cloud` | [Repo](#) |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![Venkatesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Venkatesh-Web-dev01&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatesh-Web-dev01&layout=compact&theme=dark)
+
+</div>
+
+---
+
+## 📫 How to Reach Me
+
+- **Email:** `your-email@example.com`
+- **LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com)
