@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI & ML Student at PVPSIT | Aspiring Software Engineer & Machine Learning Developer | Artificial Intelligence Engineer | Python | Java | AI Developer 
+AI & ML Student | Aspiring Software Engineer & Machine Learning Developer | Artificial Intelligence Engineer | Python | Java | AI Developer 
 
 
 # 💻 Tech Stack:
