@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am Venkatesh. i am pursuing B.Tech in Computer Science and Engineering with a specialization is ARtificial Intelligence and Machine Learning.| Aspiring Software Engineer & Machine Learning Developer | Artificial Intelligence Engineer | Python | Java | AI Developer .
+I am Venkatesh. i am pursuing B.Tech AI & ML Student at PVPSIT | Aspiring Software Engineer & Machine Learning Developer | Artificial Intelligence Engineer | Python | Java | AI Developer | Open to Internship opportunities.
+
 
 
 # 💻 Tech Stack:
